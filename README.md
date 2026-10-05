@@ -1,5 +1,7 @@
 # Byte Bot · Sim-to-Real
 
+**Live Demo:** [https://byte-bit06.github.io/Byte-Bot/](https://byte-bit06.github.io/Byte-Bot/)
+
 An interactive 3D case study: a humanoid robot built from primitive "beans",
 wired with motorized joints, and trained with reinforcement learning to walk to
 a goal. All of it runs in the browser, live, on the same physics it was trained on.
